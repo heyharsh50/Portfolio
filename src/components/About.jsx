@@ -9,18 +9,17 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-        I am pursuing Bachelors in Computer science Engineering.
-        I am a passionate Cybersecurity enthusiast.
-        I’m currently learning React.
+        I’m a passionate web developer with a strong foundation in Computer Science Engineering, currently pursuing my Bachelor's degree.
+         Constantly pushing my skills forward, I’m diving deep into React to create dynamic and modern web experiences.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+        <h1 className="text-black-600 font-semibold text-x2">Education:</h1>
+          <h3>• Bachelor of Technology (Computer Science and Engineering), Sikkim Manipal Institute of Technology</h3>
+            <h3>(Status – Pursuing, Graduation in 2025)</h3>
         </span>
         <br />
         <br />
@@ -28,10 +27,16 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+           <h1 className="text-black-600 font-semibold text-x2">Technical Skills:</h1>
+              <h3>• Languages: C/C++, SQL</h3>
+              <h3>• Tools: Git/GitHub, Canva, Jira, Firebase</h3>
+              <h3>• Frameworks: React, Vite, Node.js, Express.js</h3>
+              <h3>• Scripting: JavaScript, CSS, HTML</h3>
+              <h3>• Operating System: Windows/Linux</h3>
+              
+            <h1 className="text-black-600 font-semibold text-x2">Soft Skills:</h1>
+              <h3>• Strong time management and teamwork abilities</h3>
+              <h3>• Adaptable to dynamic environments</h3>
         </span>
         <br />
         <br />
@@ -39,20 +44,19 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
-        </span>
+          <h1 className="text-black-600 font-semibold text-x2">Find Flames | Intern (May - September)</h1>
+          <h3>• Developed a website using React.js, TypeScript, and Firebase, ensuring seamless user experiences and a visually stunning interface.</h3>
+          <h3>• Used Firebase for real-time sync, security, and scalable backend, contributing to Find Flames' success and leaving a lasting impression.</h3>
+          <h3>• Gained team management and handling skills in a dynamic environment.</h3>
+          </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          <h2>• Certificate of Contribution, Institution's Innovation Council (IIC), Annual Day – SMIT, 2024</h2>
+          <h2>(Recognized for contributions as a Student Internship Coordinator)</h2>
         </span>
         <br />
         <br />
@@ -60,9 +64,8 @@ function About() {
           Mission Statement
         </h1>
         <p>
-        I aim to use my skills and creativity to create cutting-edge web solutions
-        that not only meet but exceed client expectations.I'm dedicated to constantly learning and evolving,
-        always ready to take on new challenges and grow professionally.
+        I use my skills to build web solutions that go beyond client expectations.
+        I’m always learning and ready to take on new challenges to grow in my career.
         </p>
       </div>
     </div>

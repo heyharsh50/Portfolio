@@ -39,7 +39,7 @@ function Home() {
             <p className="text-sm md:text-md text-justify">
             I am currently in my 4th year at Sikkim Manipal Institute of Technology,
             pursuing a Bachelor's degree in Computer Science Engineering.
-            I have a strong passion for Cybersecurity and am currently learning React.
+            I have a strong passion for Web Development and I am currently learning React.
             </p>
             <br />
             {/* social media icons */}
