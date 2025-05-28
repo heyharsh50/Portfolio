@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/HarshRaj.png";
 
 import { FaInstagram, FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -83,7 +83,7 @@ function Home() {
           <div className="md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1">
             <img
               src={pic}
-              className="rounded-full md:w-[450px] md:h-[450px]"
+              className="rounded-full object-cover w-64 h-64 md:w-96 md:h-96 shadow-lg border-4 border-white"
               alt="img.harsh"
             />
           </div>
